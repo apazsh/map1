@@ -1,0 +1,159 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/map-of-turkey-2.jpg",
+    "baseName": "map-of-turkey-2.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 2000,
+      "height": 1360,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 2700,
+      "y": 2700
+    },
+    "printSize": {
+      "x": 0.740741,
+      "y": 0.503704
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 8160000,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 198.283,
+        "median": 132.667,
+        "standardDeviation": 12426.4,
+        "kurtosis": 3.35545,
+        "skewness": -1.71842,
+        "entropy": 0.50404
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 205.134,
+        "median": 148,
+        "standardDeviation": 10864.4,
+        "kurtosis": 4.04962,
+        "skewness": -1.28466,
+        "entropy": 0.459557
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 203.873,
+        "median": 176,
+        "standardDeviation": 9653.89,
+        "kurtosis": 11.2372,
+        "skewness": -2.90296,
+        "entropy": 0.516264
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 185.841,
+        "median": 74,
+        "standardDeviation": 16761,
+        "kurtosis": 0.304739,
+        "skewness": -1.145,
+        "entropy": 0.536298
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 2000,
+      "height": 1360,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 97,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-11-15T10:34:27+00:00",
+      "date:modify": "2022-11-15T10:34:27+00:00",
+      "exif:Artist": "Ontheworldmap.com",
+      "exif:ColorSpace": "1",
+      "exif:Copyright": "Ontheworldmap.com",
+      "exif:DateTime": "2021:09:28 12:02:21",
+      "exif:ExifOffset": "2370",
+      "exif:ImageDescription": "Map of Turkey",
+      "exif:PixelXDimension": "29764",
+      "exif:PixelYDimension": "16274",
+      "exif:Software": "paint.net 4.2.16",
+      "exif:WinXP-Author": "79, 0, 110, 0, 116, 0, 104, 0, 101, 0, 119, 0, 111, 0, 114, 0, 108, 0, 100, 0, 109, 0, 97, 0, 112, 0, 46, 0, 99, 0, 111, 0, 109, 0, 0, 0",
+      "exif:WinXP-Comments": "22, 33, 65, 0, 50, 0, 56, 0, 48, 0, 57, 0, 50, 0, 49, 0, 48, 0, 52, 0, 54, 0, 52, 0, 0, 0",
+      "exif:WinXP-Subject": "77, 0, 97, 0, 112, 0, 32, 0, 111, 0, 102, 0, 32, 0, 84, 0, 117, 0, 114, 0, 107, 0, 101, 0, 121, 0, 0, 0",
+      "exif:WinXP-Title": "77, 0, 97, 0, 112, 0, 32, 0, 111, 0, 102, 0, 32, 0, 84, 0, 117, 0, 114, 0, 107, 0, 101, 0, 121, 0, 0, 0",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "1x1,1x1,1x1",
+      "signature": "cec4ffe434b22a6cfb83fbbd42622d362a1413c303f7ed3022b1b19abf900114",
+      "unknown": "5"
+    },
+    "profiles": {
+      "exif": {
+        "length": 4610
+      },
+      "icc": {
+        "length": 3144
+      },
+      "xmp": {
+        "length": 4936
+      }
+    },
+    "tainted": false,
+    "filesize": "874180B",
+    "numberPixels": "2720000",
+    "pixelsPerSecond": "29.5116MB",
+    "userTime": "0.090u",
+    "elapsedTime": "0:01.092",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
